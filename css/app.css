@@ -160,10 +160,6 @@ header nav ul li:last-child{
   max-width: 285px;
 }
 
-.post{
-      flex-direction: row;
-}
-
 .post img {
   max-width: 290px;
 }
