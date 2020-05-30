@@ -69,7 +69,7 @@ section h2{
 section h3{
 	color: #414a4f;
 	text-transform: capitalize; 
-	font: bold 30px 'Open Sans', sans-serif;
+	font: bold 25px 'Open Sans', sans-serif;
 	margin-bottom: 15px;
 	text-align: center;
 }
@@ -161,7 +161,7 @@ header nav ul li:last-child{
 }
 
 .post img {
-  max-width: 200px;
+  max-width: 230px;
 }
 
 @media (max-width: 600px){
