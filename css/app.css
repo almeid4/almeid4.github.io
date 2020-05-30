@@ -149,8 +149,7 @@ header nav ul li:last-child{
 }
 
 .posts img {
-  border-radius: 5%;
-  max-width: 250px;
+  max-width: 270px;
 }
 
 @media (max-width: 600px){
@@ -169,7 +168,7 @@ header nav ul li:last-child{
 	}
 	.posts img {
     border-radius: 50%;
-    max-width: 150px;
+    max-width: 165px;
   }
 }
 
