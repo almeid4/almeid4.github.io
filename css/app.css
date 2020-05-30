@@ -132,7 +132,7 @@ header nav ul li:last-child{
 
 
 /*-------------
- 	About Me Section
+ 	About Me Section and Posts
 -------------*/
 .aboutme{
 	flex-direction: row;
@@ -140,6 +140,15 @@ header nav ul li:last-child{
 
 .aboutme img {
   border-radius: 50%;
+  max-width: 250px;
+}
+
+.posts{
+      flex-direction: row;
+}
+
+.posts img {
+  border-radius: 30%;
   max-width: 250px;
 }
 
