@@ -66,6 +66,14 @@ section h2{
 	text-align: center;
 }
 
+section h3{
+	color: #414a4f;
+	text-transform: capitalize; 
+	font: bold 30px 'Open Sans', sans-serif;
+	margin-bottom: 15px;
+	text-align: center;
+}
+
 section p{
 	max-width: 500px;
 	text-align: left;
