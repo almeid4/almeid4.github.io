@@ -160,6 +160,10 @@ header nav ul li:last-child{
   max-width: 285px;
 }
 
+.post img {
+  max-width: 285px;
+}
+
 @media (max-width: 600px){
 	.aboutme{
 		flex-direction: column;		
