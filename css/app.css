@@ -149,8 +149,8 @@ header nav ul li:last-child{
 }
 
 .posts img {
-	border-radius: 30%;
-        max-width: 300px;
+
+  max-width: 300px;
 }
 
 @media (max-width: 600px){
