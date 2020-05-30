@@ -168,7 +168,7 @@ header nav ul li:last-child{
 		flex-direction: column;		
 	}
 	.posts img {
-    border-radius: 40%;
+    border-radius: 50%;
     max-width: 240px;
   }
 }
