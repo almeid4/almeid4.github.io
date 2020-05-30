@@ -161,7 +161,7 @@ header nav ul li:last-child{
 }
 
 .post img {
-  max-width: 430px;
+  max-width: 460px;
 }
 
 @media (max-width: 600px){
@@ -186,7 +186,7 @@ header nav ul li:last-child{
 
 @media (max-width: 600px){
 	.post img {
-    max-width: 279px;
+    max-width: 280px;
   }
 }
 
