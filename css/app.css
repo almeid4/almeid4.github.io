@@ -72,6 +72,7 @@ section p{
 	margin-bottom: 35px;
 	padding: 0 20px;
 	line-height: 2;
+        text-align: justify;
 }
 
 /*-------------
@@ -162,17 +163,16 @@ header nav ul li:last-child{
   }
 }
 
-/*-------------
-@media (max-width: 1000px){
-	.aboutme{
+@media (max-width: 600px){
+	.posts{
 		flex-direction: column;		
 	}
-	.aboutme img {
+	.posts img {
     border-radius: 50%;
-    max-width: 200px;
+    max-width: 150px;
   }
 }
--------------*/
+
 
 /*-------------
  	Publications Section
