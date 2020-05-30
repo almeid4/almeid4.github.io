@@ -149,7 +149,7 @@ header nav ul li:last-child{
 }
 
 .posts img {
-  max-width: 270px;
+  max-width: 290px;
 }
 
 @media (max-width: 600px){
