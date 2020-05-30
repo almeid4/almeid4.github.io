@@ -77,7 +77,8 @@ section h3{
 
 section p{
 	max-width: 500px;
-	padding: 0 24px;
+        margin-bottom: 20px;
+	padding: 0 20px;
 	line-height: 2;
         text-align: justify;
 }
