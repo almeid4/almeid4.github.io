@@ -150,7 +150,6 @@ header nav ul li:last-child{
 .aboutme img {
   border-radius: 50%;
   max-width: 250px;
-  margin-top: 30px;
 }
 
 .posts{
@@ -158,7 +157,7 @@ header nav ul li:last-child{
 }
 
 .posts img {
-  max-width: 315px;
+  max-width: 405px;
 }
 
 .post img {
