@@ -71,7 +71,7 @@ section h3{
 	text-transform: capitalize; 
 	font: bold 16px 'Open Sans', sans-serif;
 	margin-bottom: 13px;
-        margin-top: 18px;
+    margin-top: 18px;
 	text-align: center;
 }
 
@@ -157,7 +157,7 @@ header nav ul li:last-child{
 }
 
 .posts img {
-  max-width: 405px;
+  max-width: 285px;
 }
 
 .post img {
