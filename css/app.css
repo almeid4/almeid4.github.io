@@ -157,7 +157,8 @@ header nav ul li:last-child{
 }
 
 .posts img {
-  max-width: 375px;
+  max-width: 285px;
+  margin-bottom: 10px;
 }
 
 .post img {
